@@ -1,0 +1,5 @@
+sceneSetups:
+- path: Assets/Packages_RoratePuzzle/Scenes/Game.unity
+  isLoaded: 1
+  isActive: 1
+  isSubScene: 0
